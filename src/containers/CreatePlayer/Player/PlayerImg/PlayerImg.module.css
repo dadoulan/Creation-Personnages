@@ -1,0 +1,16 @@
+.arrow {
+  background-color: #ff8000;
+  cursor: pointer;
+}
+
+.right {
+  width: 20px;
+  height: 32px;
+  clip-path: polygon(0 0, 0 100%, 100% 50%);
+}
+
+.left {
+  width: 20px;
+  height: 32px;
+  clip-path: polygon(100% 100%, 100% 0, 0 50%);
+}
