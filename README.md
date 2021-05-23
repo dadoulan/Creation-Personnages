@@ -17,7 +17,7 @@ Lors de votre prochaine visite, vous retrouverez les personnages que vous avez l
 
 Cloner le repo
 ```sh
-git clone https://github.com/shompoth/Blog-React.git
+git clone https://github.com/shompoth/Creation-Personnages.git
 ```
 
 Pour pouvoir installer ce projet sur votre ordinateur, taper les commandes suivantes :
