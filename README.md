@@ -1,6 +1,6 @@
-# Créateur de personnage
+# Créateur de personnages
 
-Ce projet est un créateur de personnage. Après la création de votre joueur, il sera affiché sous le gestionnaire de personnage.
+Ce projet est un créateur de personnages. Après la création de votre joueur, il sera affiché sous le gestionnaire de personnages.
 Lors de votre prochaine visite, vous retrouverez les personnages que vous avez laissés avant de partir.
 
 ## Fonctionnalités lors de l'ajout :
