@@ -1,5 +1,7 @@
 # Créateur de personnages
 
+![creation-personnages](https://github.com/shompoth/Creation-Personnages/blob/main/src/asset/images/screenshot-creation-perso.png)
+
 Ce projet est un créateur de personnages. Après la création de votre joueur, il sera affiché sous le gestionnaire de personnages.
 Lors de votre prochaine visite, vous retrouverez les personnages que vous avez laissés avant de partir.
 
